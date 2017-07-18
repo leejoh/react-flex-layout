@@ -1,11 +1,11 @@
 {
-  "name": "react-flex-layout",
+  "name": "react-flexible-layout",
   "version": "0.9.6",
   "description": "Simple layouts for full screen React applications",
   "main": "dist/react-flex-layout.min.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AdaptiveConsulting/react-flex-layout"
+    "url": "https://github.com/leejoh/react-flexible-layout"
   },
   "keywords": [
     "react",
@@ -23,7 +23,7 @@
     "test-watch": "karma start _karma.conf.js --autowatch --no-single-run",
     "prepublish": "npm run build:dist"
   },
-  "author": "Adaptive Consulting, Jake Ginnivan <jake@ginnivan.net>",
+  "author": "Lee Johansson <lee.johansson@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^5.2.3",
