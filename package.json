@@ -1,6 +1,6 @@
 {
   "name": "react-flexible-layout",
-  "version": "0.9.6",
+  "version": "0.9.7",
   "description": "Simple layouts for full screen React applications",
   "main": "dist/react-flex-layout.min.js",
   "repository": {
